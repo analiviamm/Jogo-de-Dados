@@ -1,7 +1,6 @@
 import socket
 import random
 
-print("oi")
 HOST = 'localhost' # Identifica o nome do servidor
 PORT = 5500 # Identifica a porta do servidor
 addr = (HOST, PORT)
